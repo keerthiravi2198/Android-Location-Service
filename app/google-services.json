@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "156065634799",
+    "firebase_url": "https://parceltrackingapp-773d7.firebaseio.com",
+    "project_id": "parceltrackingapp-773d7",
+    "storage_bucket": "parceltrackingapp-773d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156065634799:android:532f30235b990096",
+        "android_client_info": {
+          "package_name": "com.example.packagetracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156065634799-r0c91bcscisqqcv512ep8tdj7geauhgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.packagetracking",
+            "certificate_hash": "194ead5877687769d8e3996857888584df3681f5"
+          }
+        },
+        {
+          "client_id": "156065634799-fdc898ah7oflhk4p84r5hiuu00vfj22p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nmSJ52USfpw-cZEfIREa57Ay-NTsv9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156065634799-fdc898ah7oflhk4p84r5hiuu00vfj22p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156065634799:android:253f16ba300ed99b",
+        "android_client_info": {
+          "package_name": "com.example.parceltrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156065634799-sfd63kl5d8k875cbot65o8j7be8326d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parceltrackingapp",
+            "certificate_hash": "194ead5877687769d8e3996857888584df3681f5"
+          }
+        },
+        {
+          "client_id": "156065634799-fdc898ah7oflhk4p84r5hiuu00vfj22p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nmSJ52USfpw-cZEfIREa57Ay-NTsv9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156065634799-fdc898ah7oflhk4p84r5hiuu00vfj22p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
